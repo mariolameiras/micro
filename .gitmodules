@@ -1,0 +1,3 @@
+[submodule "periplo/periplo/web/mariolameiras.github.io"]
+	path = periplo/periplo/web/mariolameiras.github.io
+	url = https://github.com/mariolameiras/mariolameiras.github.io.git
